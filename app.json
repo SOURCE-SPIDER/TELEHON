@@ -45,7 +45,7 @@
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق",
+      "description": "اسم التطبيق اول مربع كتبتة فوق",
       "value": "",
       "required": false
     },
